@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ChannelManager</string>
+    <string name="industry_insight_keywors_title">新闻关键字</string>
+    <string name="industry_insight_keywors_my">我的关键词</string>
+    <string name="industry_insight_keywors_recom">建议关键字</string>
+
+    <string name="text_cancel_operation">取消</string>
+    <string name="text_edit_operation">编辑</string>
+    <string name="text_delete_operation">删除</string>
+    <string name="text_finish_operation">完成</string>
+
+    <string name="dialog_deleting_text">正在删除...</string>
+    <string name="click_reload_refresh">刷新</string>
+    <string name="industry_refresh_network_error">数据更新失败请检查您的网络！</string>
+    <string name="record_sorry_notselect_cannotdelete">未选中文章！</string>
+    <string name="record_failer_tocollection">收藏失败</string>
+    <string name="record_failer_todeletecollection">取消失败</string>
+    <string name="record_collection_success">收藏成功</string>
+    <string name="record_collection_cancle">取消收藏</string>
+    <string name="record_failer_delete">删除失败，请稍后重试！</string>
+
+    <string name="channeledit_add_keywrods">新建关键词</string>
+    <string name="channeledit_please_input_keywrods">请输入关键词</string>
+    <string name="channeledit_atleast_onekeywrods">至少剩余一个关键字</string>
+</resources>

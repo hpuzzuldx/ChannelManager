@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/addchannel_container"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/insight_keywordspage_item_defaultheight"
+    android:background="@drawable/channelpage_mychannel_tvbg"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:id="@+id/addchannel"
+        android:layout_width="wrap_content"
+        android:layout_height="13dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/industry_icon_addchannel"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:gravity="center"/>
+
+</RelativeLayout>

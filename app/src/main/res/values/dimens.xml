@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="insight_type_noimg_itemheight">104dp</dimen>
+    <dimen name="insight_type_oneimg_itemheight">114dp</dimen>
+    <dimen name="insight_item_default_paddingleft">15dp</dimen>
+    <dimen name="insight_item_default_paddingright">15dp</dimen>
+    <dimen name="insight_item_default_paddingtop">10dp</dimen>
+    <dimen name="insight_item_default_paddingbottom">10dp</dimen>
+    <dimen name="insight_item_default_marginbottom">3.5dp</dimen>
+    <dimen name="insight_item_default_margintop">3.5dp</dimen>
+    <dimen name="insight_item_default_title_fontsize">16dp</dimen>
+    <dimen name="insight_item_default_bottom_fontsize">11dp</dimen>
+    <dimen name="insight_detailpage_tilte_iconsize">28dp</dimen>
+    <dimen name="insight_detailpage_tiltebar_defpadding">15dp</dimen>
+    <dimen name="insight_keywordspage_tiltebar_defaultheight">44dp</dimen>
+    <dimen name="insight_keywordspage_tiltebar_titlesize">18dp</dimen>
+    <dimen name="insight_keywordspage_item_defaultheight">35dp</dimen>
+    <dimen name="insight_keywordspage_item_fontsize">14dp</dimen>
+    <dimen name="insight_edit_checkbox_size">25dp</dimen>
+    <dimen name="mepage_firstname_fontsize">35dp</dimen>
+    <dimen name="mepage_secondname_fontsize">14dp</dimen>
+    <dimen name="mepage_userinfo_defaultheight">270dp</dimen>
+    <dimen name="mepage_userinfo_bg_margintop">97dp</dimen>
+    <dimen name="mepage_userinfo_bg_marginbottom">65dp</dimen>
+    <dimen name="mepage_userinfo_colecandhis_marginbottom">30dp</dimen>
+
+    <dimen name="mepage_userinfo_colecandhis_iconsize">21dp</dimen>
+    <dimen name="mepage_userinfo_colecandhis_fontsize">14dp</dimen>
+    <dimen name="mepage_userinfo_firstname_wordheight">65dp</dimen>
+    <dimen name="mepage_userinfo_colecandhis_height">70dp</dimen>
+    <dimen name="colandhis_bottomedit_height">49dp</dimen>
+    <dimen name="colandhis_bottomedit_allsel_size">14dp</dimen>
+    <dimen name="colandhis_bottomedit_alldel_size">14dp</dimen>
+    <dimen name="industry_tabmenu_selected_textsize">18dp</dimen>
+    <dimen name="industry_record_dialog_textsize">16dp</dimen>
+    <dimen name="industry_default_textsize">14dp</dimen>
+    <dimen name="industry_newsrefresh_default_height">30dp</dimen>
+    <dimen name="dislike_menuitem_height">33dp</dimen>
+    <dimen name="dislike_popwindow_default_width">240dp</dimen>
+    <dimen name="dislike_popwindow_topbar_fontsize">12dp</dimen>
+    <dimen name="dislike_popwindow_bottombar_fontsize">14dp</dimen>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="channelpage_titlebar_bottomline_color">#F1F1F1</color>
+    <color name="channelpage_itemtext_color">#222222</color>
+    <color name="industrypage_default_bgcolor">#FFF1F1F1</color>
+    <color name="mepage_firstname_firstword_color">#73FFFFFF</color>
+    <color name="mepage_firstname_bg_color">#283659</color>
+    <color name="mepage_secondname_font_color">#B3FFFFFF</color>
+    <color name="mepage_colecandhis_bottom_fontcolor">#B3FFFFFF</color>
+    <color name="collandhis_item_title_fontcolor">#CCFFFFFF</color>
+    <color name="collandhis_item_bottomcolor">#4DFFFFFF</color>
+    <color name="mine_userinfo_dividerline_color">#4DFFFFFF</color>
+    <color name="colandhis_bottomedit_bgcolor">#091737</color>
+    <color name="industry_tabtext_color">#777777</color>
+    <color name="whitemode_bottomnavi_color">#DEDEDE</color>
+    <color name="whitemode_bottomview_leftcolor">#929292</color>
+    <color name="industry_item_title_color">#222222</color>
+    <color name="industry_record_dialogdivi_bg">#26C8C8CA</color>
+    <color name="black_toast_collection">#80000000</color>
+    <color name="industry_error_empty_centerinfo">#5A6171</color>
+    <color name="industry_error_empty_refreshcolor">#FDFDFD</color>
+    <color name="industry_refresh_infocolor">#929292</color>
+    <color name="industry_refresh_finish_bg">#80007AFF</color>
+    <color name="industry_navbottom_selected_bg">#007AFF</color>
+
+    <color name="dislike_selected_itemcolor">#007AFF</color>
+    <color name="dislike_popview_unselected_color">#222222</color>
+    <color name="dislike_popview_title_color">#777777</color>
+    <color name="channeledit_addnew_hintcolor">#80929292</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+</resources>

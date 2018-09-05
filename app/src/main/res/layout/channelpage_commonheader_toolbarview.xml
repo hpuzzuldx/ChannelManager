@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/insight_keywordspage_tiltebar_defaultheight"
+        android:paddingLeft="@dimen/insight_item_default_paddingleft"
+        android:paddingRight="@dimen/insight_item_default_paddingright">
+        <ImageView
+            android:id="@+id/commonlayout_headtool_lefticon"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/insight_detailpage_tilte_iconsize"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:scaleType="fitCenter"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:maxWidth="@dimen/insight_detailpage_tilte_iconsize"
+            android:src="@drawable/navback_icon_black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:lines="1"
+            android:textStyle="bold"
+            android:text="@string/industry_insight_keywors_title"
+            android:textColor="@color/black"
+            android:textSize="@dimen/insight_keywordspage_tiltebar_titlesize"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/channelpage_titlebar_bottomline_color"
+        android:layout_gravity="bottom" />
+</LinearLayout>
